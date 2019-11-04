@@ -1,0 +1,41 @@
+_repo: Das-Buch-vom-Bruderchen-Roman-einer-Ehe_60622
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Maro, Francis
+    aliases:
+    - Maro, Frances
+    - Maro, F. (Francis)
+    - Maro, Franzis
+    - Maro, Fransis
+    birthdate: 1870
+    deathdate: 1941
+    gutenberg_agent_id: '49611'
+    url: http://www.gutenberg.org/2009/agents/49611
+    wikipedia: http://www.gutenberg.org/ebooks/author/9157
+creator:
+  author:
+    agent_name: Geijerstam, Gustaf af
+    aliases:
+    - Af Geijerstam, Gustaf
+    - Geijerstam, Gustav
+    birthdate: 1858
+    deathdate: 1909
+    gutenberg_agent_id: '33352'
+    url: http://www.gutenberg.org/2009/agents/33352
+    wikipedia: http://sv.wikipedia.org/wiki/Gustaf_af_Geijerstam
+description: ''
+gutenberg_issued: '2019-11-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60622'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Das Buch vom Brüderchen
+
+  Roman einer Ehe'
+url: http://www.gutenberg.org/ebooks/60622
