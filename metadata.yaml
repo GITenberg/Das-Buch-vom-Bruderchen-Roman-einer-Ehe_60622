@@ -1,5 +1,5 @@
 _repo: Das-Buch-vom-Bruderchen-Roman-einer-Ehe_60622
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Maro, Francis
@@ -13,6 +13,9 @@ contributor:
     gutenberg_agent_id: '49611'
     url: http://www.gutenberg.org/2009/agents/49611
     wikipedia: http://www.gutenberg.org/ebooks/author/9157
+covers:
+- cover_type: archival
+  image_path: 60622-h/images/cover.jpg
 creator:
   author:
     agent_name: Geijerstam, Gustaf af
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33352
     wikipedia: http://sv.wikipedia.org/wiki/Gustaf_af_Geijerstam
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60622#Das-Buch-vom-Bruderchen-Roman-einer-Ehe
 gutenberg_issued: '2019-11-03'
 gutenberg_type: Text
 identifiers:
